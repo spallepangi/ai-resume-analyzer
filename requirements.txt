@@ -1,0 +1,11 @@
+streamlit
+pandas
+numpy
+PyMuPDF
+pdfplumber
+python-docx
+spacy
+nltk
+scikit-learn
+transformers
+torch
